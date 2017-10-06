@@ -1,6 +1,6 @@
 # [Web de Matemáticas 4 ESO](https://crdguez.github.io/mat4web/)
 
-Página web basada: [FPGAwars website](http://fpgawars.github.io/)
+Página web con contenidos de matemáticas correspondientes a 4ºESO. Su desarrollo está basado en: [FPGAwars website](http://fpgawars.github.io/)
 
 [![License](http://img.shields.io/:license-gpl-blue.svg)](http://opensource.org/licenses/GPL-2.0)
 
