@@ -1,0 +1,123 @@
+academicas:
+menu:
+  en: Menu
+  es: Menú
+
+intro-phrase:
+  en: Departamento de Matemáticas
+  es: Departamento de Matemáticas
+
+
+free-software:
+  en: Free Software
+  es: Software Libre
+
+free-software-desc:
+  en: You can use, study, distribute and improve our code, always released under GPL
+  es: Puedes usar, estudiar, distribuir y mejorar nuestro código, liberado siempre mediante GPL
+
+open-hardware:
+  en: Open Hardware
+  es: Hardware libre
+
+open-hardware-desc:
+  en: Our boards and hardware description modules are Open and created with Open Tools
+  es: Nuestras placas y módulos de hardware son Libres y están creados con Herramientas Libres
+
+technological-heritage:
+  en: Technological Heritage
+  es: Patrimonio Tecnológico
+
+technological-heritage-desc:
+  en: All our work belongs to everybody and is part of the Technological Heritage
+  es: Todo nuestro trabajo es de todos y forma parte del Patrimonio Tecnológico de la Humanidad
+
+academicas:
+  en: Académicas
+  es: Académicas
+
+academicas-desc:
+  en: Matemáticas Académicas 4ºESO
+  es: Matemáticas Académicas 4ºESO
+
+ejercicios:
+  en: Ejercicios
+  es: Ejercicios
+
+ejercicios-desc:
+  en: Hojas de ejercicios para realizar
+  es: Hojas de ejercicios para realizar
+
+resumenes:
+  en: Resumenes
+  es: Resumenes
+
+resumenes-desc:
+  en: Resumenes de las diferentes unidades
+  es: Resumenes de las diferentes unidades
+
+libro:
+  en: Book
+  es: Libro
+
+libro-desc:
+  en: Libro de texto digital
+  es: Libro de texto digital
+
+otros:
+  en: Otros
+  es: Otros
+
+otros-desc:
+  en: Otros recursos
+  es: Otros recursos
+
+tutoria:
+  en: Tutoría
+  es: Tutoría
+
+tutoria-desc:
+  en: Documentación de Tutoría de 4º
+  es: Documentación de Tutoría de 4º
+
+
+aplicadas:
+  en: Aplicadas
+  es: Aplicadas
+
+aplicadas-desc:
+  en: Matemáticas Aplicadas 4ºESO
+  es: Matemáticas Aplicadas 4ºESO
+
+miscelanea:
+  en: Miscelánea
+  es: Miscelánea
+
+miscelanea-desc:
+  en: Otros contenidos
+  es: Otros contenidos
+
+team:
+  en: Profesorado
+  es: Profesorado
+
+team-desc:
+  en: Conoce a los profesores
+  es: Conoce a los profesores
+
+member-position:
+  en: Math Teacher
+  es: Profesor de Matemáticas
+
+
+contribute:
+  en: Contribute
+  es: Contribuye
+
+contribute-desc:
+  en: Send your doubts, solutions, suggestions, collaborate on projects, ...
+  es: Envía tus dudas, soluciones, sugerencias, colabora en los proyectos, ...
+
+google-group:
+  en: Google Group
+  es: Grupo de Google
