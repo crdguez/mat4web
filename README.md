@@ -1,4 +1,4 @@
-·# [Web de Matemáticas 4 ESO](https://crdguez.github.io/mat4web/)
+# [Web de Matemáticas 4 ESO](https://crdguez.github.io/mat4web/)
 
 Página web basada: [FPGAwars website](http://fpgawars.github.io/)
 
